@@ -1,0 +1,6 @@
+{
+  "name": "SmartMsg",
+  "description": "Smart messaging app with voice calls, video calls, messages, status updates, and Gemini AI assistant tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
